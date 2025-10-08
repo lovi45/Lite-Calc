@@ -1,16 +1,26 @@
-# lite_calc
+# Lite Calc 🧮
+A simple, clean, and modern calculator app built with Flutter.
 
-A new Flutter project.
+## 📱 Features
+- Basic arithmetic operations (+, −, ×, ÷)
+- Responsive UI similar to iPhone calculator
+- Light theme with smooth button animations
+- Works perfectly on both Android and Web
 
-## Getting Started
+## 🎨 UI Colors
+- Dark Blue: `#272569`
+- Lime Green: `#C1D53F`
 
-This project is a starting point for a Flutter application.
+## 🚀 How to Run
+1. Clone this repository
+2. Run `flutter pub get`
+3. Use `flutter run` to launch the app on an emulator or physical device
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshot
+_Add your app screenshot here (e.g., `assets/images/preview.png`)_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Learnings
+- Flutter UI design
+- Grid layout
+- Button interactions
+- Basic state management (setState)
